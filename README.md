@@ -1,8 +1,8 @@
 ### Hi there 👋  
   
-I’m a computer engineering student and tech enthusiast who is interested in **advanced math topics**, 🖥️ **computer organization** and 🤖 **system design**.   
-Here on GitHub, I save my hobby projects and notes to share knowledge, especially with freshmen eager to learn!  
-While you'll find some of my work here, I keep the majority of my professional projects and assignments private as I'm often restructuring and uploading past works.  
+I’m a computer engineering student and tech enthusiast who is interested in **advanced math topics**, 🖥️ **computer organization** and 🤖 **system design**.     
+Here on GitHub, I save my hobby projects and notes to share knowledge, especially with freshmen eager to learn!    
+While you'll find some of my work here, I keep the majority of my professional projects and assignments private as I'm often restructuring and uploading past works.    
 
 ### What I'm Currently Up To:  
   
