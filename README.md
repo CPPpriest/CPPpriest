@@ -16,6 +16,16 @@ While you'll find some of my work here, I keep the majority of my professional p
 - **Other Languages:** Python, Haskell, Java, JavaScript
 - **Most Used Tools and Environment:** Atom and Vim, gdb, ghidra, Ubuntu/Linux
 
+
+**Languages, frameworks and tools:**  
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 ### Reach Out!
   
 Feel free to explore my repositories and let's connect to discuss tech, challenges, or any fun project ideas you might have!
