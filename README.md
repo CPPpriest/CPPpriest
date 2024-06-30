@@ -42,7 +42,7 @@ While you'll find some of my work here, I keep the majority of my professional p
   
 Feel free to explore my repositories and let's connect to discuss tech, challenges, or any fun project ideas you might have!
 
-- 📫 How to reach me: mrkilinc@gmail.com
+- 📫 How to reach me: mrkilinc22@gmail.com
 
  
 
